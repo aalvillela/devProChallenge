@@ -1,5 +1,4 @@
-﻿using System;
-using LoggerApp; // Ensure correct namespace import
+﻿using LoggerApp;
 
 namespace devProChallenge
 {

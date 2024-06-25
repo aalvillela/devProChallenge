@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-namespace LoggerApp
+﻿namespace LoggerApp
 {
     public static class Logger
     {
